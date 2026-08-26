@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
