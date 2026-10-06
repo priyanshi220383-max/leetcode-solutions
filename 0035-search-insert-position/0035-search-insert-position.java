@@ -15,6 +15,7 @@ class Solution {
             }
         }
         return left;
+        // If target is not found, left is the position where target should be inserted
         
     }
 }
