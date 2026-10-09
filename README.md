@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Counting Sort
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
