@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
