@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
