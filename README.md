@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -149,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
