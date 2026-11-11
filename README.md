@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Heap (Priority Queue)
