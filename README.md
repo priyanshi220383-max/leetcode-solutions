@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
