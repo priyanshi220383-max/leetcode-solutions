@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
