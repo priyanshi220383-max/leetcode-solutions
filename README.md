@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0876-middle-of-the-linked-list](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
