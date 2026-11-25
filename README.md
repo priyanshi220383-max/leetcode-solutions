@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Matrix
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/priyanshi220383-max/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
